@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547346642036",
+    "project_id": "bitirme-26a4e",
+    "storage_bucket": "bitirme-26a4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547346642036:android:ba7c3cca98642d44a6cd21",
+        "android_client_info": {
+          "package_name": "com.ridedemo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznRLHKRDGiWN3j6SFPrsslZb1gq8IwCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
